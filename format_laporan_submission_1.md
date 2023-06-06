@@ -31,9 +31,9 @@ Menjelaskan pernyataan masalah latar belakang:
 ### Goals
 
 Menjelaskan tujuan dari pernyataan masalah:
-- Jawaban pernyataan masalah 1
-- Jawaban pernyataan masalah 2
-- Jawaban pernyataan masalah n
+- Mengetahui fitur yang paling berkorelasi terhadap transaksi penipuan
+- Mengetahui pada metode pembayaran apa transaksi penipuan sering terjadi
+- 
 
 Semua poin di atas harus diuraikan dengan jelas. Anda bebas menuliskan berapa pernyataan masalah dan juga goals yang diinginkan.
 
