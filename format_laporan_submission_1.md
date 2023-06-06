@@ -8,9 +8,9 @@ Perkembangan teknologi yang begitu pesat memberi dampak luar biasa kehidupan seh
 
 Pada bagian ini, kamu perlu menuliskan latar belakang yang relevan dengan proyek yang diangkat.
 
-**Rubrik/Kriteria Tambahan (Opsional)**:
-- Jelaskan mengapa dan bagaimana masalah tersebut harus diselesaikan
-- Menyertakan hasil riset terkait atau referensi. Referensi yang diberikan harus berasal dari sumber yang kredibel dan author yang jelas.
+**Referensi**:
+- [Mengenal Elektronik Banking](http://ejurnal.ppsdmmigas.esdm.go.id/sp/index.php/swarapatra/article/view/125/112) 
+- [Ana](https://ejurnal.teknokrat.ac.id/index.php/teknoinfo/article/view/868/517) 
   
   Format Referensi: [Judul Referensi](https://scholar.google.com/) 
 
