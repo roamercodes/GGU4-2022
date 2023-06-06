@@ -14,6 +14,7 @@ Pada bagian ini, kamu perlu menuliskan latar belakang yang relevan dengan proyek
   
   Format Referensi: [Judul Referensi](https://scholar.google.com/) 
 
+Referensi: [Mengenal Elektronik Banking](http://ejurnal.ppsdmmigas.esdm.go.id/sp/index.php/swarapatra/article/view/125/112) 
 ## Business Understanding
 
 Pada bagian ini, kamu perlu menjelaskan proses klarifikasi masalah.
