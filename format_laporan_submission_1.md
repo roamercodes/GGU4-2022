@@ -10,7 +10,8 @@ Pada bagian ini, kamu perlu menuliskan latar belakang yang relevan dengan proyek
 
 **Referensi**:
 - [Mengenal Elektronik Banking](http://ejurnal.ppsdmmigas.esdm.go.id/sp/index.php/swarapatra/article/view/125/112) 
-- [Ana](https://ejurnal.teknokrat.ac.id/index.php/teknoinfo/article/view/868/517) 
+- [Penerapan Deep Learningdalam Deteksi Penipuan Transaksi Keuangan Secara Elektronik](https://ejurnal.teknokrat.ac.id/index.php/teknoinfo/article/view/868/517) 
+- [Analisa Transaksi Belanja Online Pada Masa Pandemi Covid-19](https://ejurnal.teknokrat.ac.id/index.php/teknoinfo/article/view/868/517) 
   
   Format Referensi: [Judul Referensi](https://scholar.google.com/) 
 
