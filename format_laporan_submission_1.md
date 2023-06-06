@@ -13,20 +13,19 @@ Pada bagian ini, kamu perlu menuliskan latar belakang yang relevan dengan proyek
 - [Penerapan Deep Learningdalam Deteksi Penipuan Transaksi Keuangan Secara Elektronik](https://ejurnal.teknokrat.ac.id/index.php/teknoinfo/article/view/868/517) 
 - [Analisa Transaksi Belanja Online Pada Masa Pandemi Covid-19](https://ejurnal.teknokrat.ac.id/index.php/teknoinfo/article/view/868/517) 
   
-  Format Referensi: [Judul Referensi](https://scholar.google.com/) 
-
-Referensi: [Mengenal Elektronik Banking](http://ejurnal.ppsdmmigas.esdm.go.id/sp/index.php/swarapatra/article/view/125/112) 
 ## Business Understanding
 
 Pada bagian ini, kamu perlu menjelaskan proses klarifikasi masalah.
+
+Transaksi penipuan yang terjadi saat ini telah menggunakan sistem secara elektronik sehingga untuk mengidentifikasi tersebut perlu juga menggunakan teknologi yang mumpuni. Teknologi machine learning dapat berkontribusi secara bermanfaat dalam tantangan mendeteksi transaksi penipuan.
 
 Bagian laporan ini mencakup:
 
 ### Problem Statements
 
 Menjelaskan pernyataan masalah latar belakang:
-- Pernyataan Masalah 1
-- Pernyataan Masalah 2
+- Fitur apa yang paling berpengaruh terhadap transaksi penipuan?
+- Pada jenis pembayaran apa transaksi penipuan sering terjadi?
 - Pernyataan Masalah n
 
 ### Goals
