@@ -37,6 +37,15 @@ Menjelaskan tujuan dari pernyataan masalah:
 
 Semua poin di atas harus diuraikan dengan jelas. Anda bebas menuliskan berapa pernyataan masalah dan juga goals yang diinginkan.
 
+### Solution Statement
+- Model klasifikasi yang yaitu SVM, KNN dan Random Forest
+
+
+Menjelaskan tujuan dari pernyataan masalah:
+- Mengetahui fitur yang paling berkorelasi terhadap transaksi penipuan
+- Mengetahui pada metode pembayaran apa transaksi penipuan sering terjadi
+
+
 **Rubrik/Kriteria Tambahan (Opsional)**:
 - Menambahkan bagian “Solution Statement” yang menguraikan cara untuk meraih goals. Bagian ini dibuat dengan ketentuan sebagai berikut: 
 
