@@ -45,7 +45,6 @@ Menjelaskan tujuan dari pernyataan masalah:
 - Mengetahui fitur yang paling berkorelasi terhadap transaksi penipuan
 - Mengetahui pada metode pembayaran apa transaksi penipuan sering terjadi
 
-
 **Rubrik/Kriteria Tambahan (Opsional)**:
 - Menambahkan bagian “Solution Statement” yang menguraikan cara untuk meraih goals. Bagian ini dibuat dengan ketentuan sebagai berikut: 
 
@@ -57,6 +56,39 @@ Menjelaskan tujuan dari pernyataan masalah:
 Paragraf awal bagian ini menjelaskan informasi mengenai data yang Anda gunakan dalam proyek. Sertakan juga sumber atau tautan untuk mengunduh dataset. Contoh: [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Restaurant+%26+consumer+data).
 
 Data yang digunakan dalam proyek ini didapatkan di situs [kaggle](https://kaggle.com) kumpulan data ini merupakan data sintetik yang dihasilkan menggunakan simulator yang dimanakan PaySim. PaySim mensimulasikan transaksi elektronik berdasarkan sampel transaksi nyata yang diambil dari log transaksi keuangan satu bulan dari layanan uang seluler yang diterapkan di negara Afrika. Lebih lebih detailnya bisa dilihat pada sumber data [kaggle: online fraud detection](https://www.kaggle.com/datasets/jainilcoder/online-payment-fraud-detection?resource=download)
+
+Selanjutnya uraikanlah seluruh variabel atau fitur pada data. Sebagai contoh:  
+
+### Variabel-variabel pada Restaurant UCI dataset adalah sebagai berikut:
+- step : memetakan satuan waktu di dunia nyata. Dalam hal ini 1 langkah adalah 1 jam waktu. Total langkah 744 (simulasi 30 hari).
+- type : Metode transaksi 
+- dst
+
+
+Ini adalah contoh 1 baris dengan penjelasan header:
+
+1, PEMBAYARAN,1060.31,C429214117,1089.0,28.69,M1591654462,0.0,0.0,0,0
+
+
+jumlah -
+jumlah transaksi dalam mata uang lokal.
+
+nameOrig - pelanggan yang memulai transaksi
+
+oldbalanceOrg - saldo awal sebelum transaksi
+
+newbalanceOrig - saldo baru setelah transaksi
+
+nameDest - pelanggan yang menjadi penerima transaksi
+
+oldbalanceDest - penerima saldo awal sebelum transaksi. Perhatikan bahwa tidak ada informasi untuk pelanggan yang dimulai dengan M (Merchants).
+
+newbalanceDest - penerima saldo baru setelah transaksi. Perhatikan bahwa tidak ada informasi untuk pelanggan yang dimulai dengan M (Merchants).
+
+isFraud - Ini adalah transaksi yang dilakukan oleh agen penipuan di dalam simulasi. Dalam kumpulan data khusus ini perilaku penipuan agen bertujuan untuk mendapatkan keuntungan dengan mengambil kendali atau akun pelanggan dan mencoba mengosongkan dana dengan mentransfer ke akun lain dan kemudian menguangkan sistem.
+
+isFlaggedFraud - Model bisnis ini bertujuan untuk mengontrol transfer besar-besaran dari satu akun ke akun lain dan menandai upaya ilegal. Upaya ilegal dalam kumpulan data ini adalah upaya untuk mentransfer lebih dari 200.000 dalam satu transaksi.
+
 
 
 Selanjutnya uraikanlah seluruh variabel atau fitur pada data. Sebagai contoh:  
